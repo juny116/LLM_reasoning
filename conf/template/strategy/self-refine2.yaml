@@ -1,0 +1,6 @@
+template_name: strategy_baseline
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Can you solve the following true false problem?\n\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"
+feedback: "Please provide feedback on the previous answer? If the answer seem correct print [ACCURATE]\n\nFeedback: "
+revise: "Revise the answer according to the feedback.\n\nFeedback: [FEEDBACK]\n\nRevised Answer: "

@@ -1,0 +1,4 @@
+template_name: checkmate_extract
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Please extract only the final chess move.\n\n"
+format: "\n-----------------------\nSolution: [SOLUTION]\n-----------------------\nAnswer: [ANSWER]"

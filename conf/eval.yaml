@@ -1,0 +1,10 @@
+seed: 42
+result_path: results/gsm.jsonl
+data_path: data/gsm.jsonl
+out_path: results/result.jsonl
+subject: philosophy
+max_examples: 100
+
+defaults:
+  - model: chatGPT
+  - _self_

@@ -1,0 +1,4 @@
+template_name: strategy_cot4
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Answer the following question. Think step by step.\n"
+format: "[QUESTION]\n[ANSWER]"

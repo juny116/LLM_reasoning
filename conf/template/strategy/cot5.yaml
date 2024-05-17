@@ -1,0 +1,4 @@
+template_name: strategy_cot5
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Find if the following statement is true or false.\n"
+format: "###\nQuestion:\n[QUESTION]\n###\nAnswer:\nLet’s work this out in a step by step way to be sure we have the right answer.\n[ANSWER]"

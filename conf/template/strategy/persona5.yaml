@@ -1,0 +1,4 @@
+template_name: strategy_persona5
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "You are a helpful chatbot with abundant common knowledge. You are willing to utilize your knowledge to provide helpful answers to users. A user asked you the following question. Find if it is true or false.\n"
+format: "###\nQuestion:\n[QUESTION]\n###\nAnswer:\n[ANSWER]"

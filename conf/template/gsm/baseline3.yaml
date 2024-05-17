@@ -1,0 +1,3 @@
+template_name: gsm_baseline3
+instruction: "Answer the following math question.\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

@@ -1,0 +1,3 @@
+template_name: gsm_persona3
+instruction: "You are an outstanding mathematician. Based on your mathematical knowledge, answer the following math question.\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

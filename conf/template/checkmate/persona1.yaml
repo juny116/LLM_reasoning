@@ -1,0 +1,4 @@
+template_name: persona1
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "In the following chess position, find a checkmate-in-one move. Think like Magnus Carlsen.\n\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

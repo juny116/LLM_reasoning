@@ -1,0 +1,4 @@
+template_name: extract_strategy
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "The following are the solutions for the true false question. Please extract only the final answer in the solution.\n\n"
+format: "\n-----------------------\nSolution: [SOLUTION]\n-----------------------\nAnswer: [ANSWER]"

@@ -1,0 +1,5 @@
+template_name: gsm_mcr
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Can you answer the following math problem based on diverse solutions that are provided?\n\n"
+format: "Question: [QUESTION]\n\n[SOLUTIONS]\n\nFinal answer:[ANSWER]"
+solution_format: "Solution [K]:\n\n[SOLUTION]\n\n"

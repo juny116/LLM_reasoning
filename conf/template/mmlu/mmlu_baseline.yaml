@@ -1,0 +1,11 @@
+template_name: mmlu
+system: "You are ChatGPT, a large language model trained by OpenAI."
+option_map:
+  A: "A"
+  B: "B"
+  C: "C"
+  D: "D"
+subject: philosophy
+instruction: "The following are multiple choice questions (with answers) about ${template.subject}. Answer the question. The answer should be given only in the alphabet corresponding to the option in the choices without explanations.\n\n"
+format: "Question: [QUESTION]\n[OPTIONS][ANSWER]"
+option_farmat: "[OPTION]. [ANSWER]"

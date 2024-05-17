@@ -1,0 +1,4 @@
+template_name: extract_gsm
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "The following are the solutions for math word problems. Please extract only the final numeric answer in the solution.\n\n"
+format: "\n-----------------------\nSolution: [SOLUTION]\n-----------------------\nAnswer: [ANSWER]"

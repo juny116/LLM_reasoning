@@ -1,0 +1,3 @@
+template_name: gsm_baseline5
+instruction: "Solve the following math question.\n"
+format: "###\nQuestion: [QUESTION]\n###\nSolution: [ANSWER]"

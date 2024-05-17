@@ -1,0 +1,4 @@
+template_name: persona2
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "You are exceptional strategic thinking, involving the ability to foresee, evaluate, and adapt to multiple moves ahead with precision and foresight.In the following chess position, find a checkmate-in-one move.\n\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

@@ -1,0 +1,4 @@
+template_name: strategy_baseline
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Can you solve the following true false problem?\n\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

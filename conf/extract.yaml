@@ -1,0 +1,14 @@
+seed: 42
+
+output_path: results
+train_path: data/extract_mmlu.jsonl
+test_path: data/test.jsonl
+out_path: results/result.jsonl
+out_dir: results/
+max_examples: 100
+rounds: 1
+
+defaults:
+  - model: chatGPT
+  - template: extract_mmlu
+  - _self_

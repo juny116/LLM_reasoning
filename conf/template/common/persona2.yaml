@@ -1,0 +1,10 @@
+template_name: persona2
+system: "You are ChatGPT, a large language model trained by OpenAI."
+option_map:
+  A: "A"
+  B: "B"
+  C: "C"
+  D: "D"
+instruction: "You are a cognitive scientist and problem-solving expert. You have a deep understanding of human cognition and common knowledge. When you answer to the commonsense related question, you analyze the given question by breaking it down into its fundamental components. Answer the following question. \n"
+format: "Question: [QUESTION]\n[OPTIONS]\nAnwer: [ANSWER]"
+option_farmat: "[OPTION]. [ANSWER]"

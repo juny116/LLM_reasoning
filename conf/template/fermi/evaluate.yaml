@@ -1,0 +1,4 @@
+template_name: fermi_eval
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Can you check if the predicted answer is accurate?\n\n"
+format: "Gold Answer: [GOLD]\nPredicted Answer: [ANSWER]\nCorrect: [CORRECT]"

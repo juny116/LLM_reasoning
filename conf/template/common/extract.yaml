@@ -1,0 +1,4 @@
+template_name: common_extract
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "The following are the solutions for multiple choice questions. Please extract only the final answer. Extract only the option alphabet of the answer.\n\n"
+format: "\n-----------------------\nSolution: [SOLUTION]\n-----------------------\nAnswer: [ANSWER]"

@@ -1,0 +1,5 @@
+template_name: gsm_base
+system: "You are ChatGPT, a large language model trained by OpenAI."
+init: "Can you solve the following math problem? [QUESTION] Explain your reasoning. Your final answer should be a single numerical number, in the form \\boxed{{answer}}, at the end of your response. "
+# init: "Can you solve the following math problem? [QUESTION] Explain your reasoning. Your final answer should be a single numerical number, in the form #### answer, at the end of your response. "
+regen: "For your information, these are the answers from other agents that were incorrect. [ANSWERS]\n\n. Your final answer must be different from these. "

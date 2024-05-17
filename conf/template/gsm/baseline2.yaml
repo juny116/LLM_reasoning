@@ -1,0 +1,4 @@
+template_name: gsm_baseline2
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Please solve the following math questions?\n\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

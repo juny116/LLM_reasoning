@@ -1,0 +1,4 @@
+template_name: gsm_direct_calc
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Can you solve the following math problem? Solve the problem using direct calculation.\n\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

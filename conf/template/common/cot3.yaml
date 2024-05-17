@@ -1,0 +1,10 @@
+template_name: cot3
+system: "You are ChatGPT, a large language model trained by OpenAI."
+option_map:
+  A: "A"
+  B: "B"
+  C: "C"
+  D: "D"
+instruction: "Select the best answer from the choices for the following question.\n"
+format: "Question: [QUESTION]\nChoices:\n[OPTIONS]\nLet’s think step-by-step.\nAnswer: [ANSWER]"
+option_farmat: "[OPTION]. [ANSWER]"

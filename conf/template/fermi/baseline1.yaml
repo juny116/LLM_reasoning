@@ -1,0 +1,4 @@
+template_name: fermi_baseline1
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Can you solve the following problem using the predefined facts?\n\n"
+format: "Facts:\n[CONTEXTS]\nQuestion: [QUESTION]\nAnswer: [ANSWER]"

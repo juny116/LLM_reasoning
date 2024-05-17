@@ -1,0 +1,10 @@
+template_name: baseline4
+system: "You are ChatGPT, a large language model trained by OpenAI."
+option_map:
+  A: "A"
+  B: "B"
+  C: "C"
+  D: "D"
+instruction: "Answer the following question.\n"
+format: "Question: [QUESTION]\n[OPTIONS]\n"
+option_farmat: "[OPTION]. [ANSWER]"

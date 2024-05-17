@@ -1,0 +1,3 @@
+template_name: gsm_cot5
+instruction: "Solve the following math question.\n"
+format: "###\nQuestion: [QUESTION]\n###\nSolution:\nLet’s work this out in a step by step way to be sure we have the right answer.\n[ANSWER]"

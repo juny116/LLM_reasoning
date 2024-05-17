@@ -1,0 +1,4 @@
+template_name: fermi_no_explain
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Can you solve the following problem using the predefined facts? Only generate answer without the explanations.\n\n"
+format: "Facts:\n[CONTEXTS]\nQuestion: [QUESTION]\nAnswer: [ANSWER]"

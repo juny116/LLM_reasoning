@@ -1,0 +1,10 @@
+template_name: cot2
+system: "You are ChatGPT, a large language model trained by OpenAI."
+option_map:
+  A: "A"
+  B: "B"
+  C: "C"
+  D: "D"
+instruction: "The following are multiple choice questions. Generate the intermediate reasoning process followed by the final answer.\n\n"
+format: "Question: [QUESTION]\n[OPTIONS]\nAnswer: [ANSWER]"
+option_farmat: "[OPTION]. [ANSWER]"

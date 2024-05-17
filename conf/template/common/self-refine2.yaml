@@ -1,0 +1,12 @@
+template_name: self-refine2
+system: "You are ChatGPT, a large language model trained by OpenAI."
+option_map:
+  A: "A"
+  B: "B"
+  C: "C"
+  D: "D"
+instruction: "Answer the following question. Think step by step.\n\n"
+format: "Question: [QUESTION]\n[OPTIONS]\nAnswer: [ANSWER]"
+feedback: "Please check if the answer is appropriate? If not please provide feedback. If the answer seem correct print [ACCURATE]\n\nFeedback: "
+revise: "Revise the answer according to the feedback.\n\nFeedback: [FEEDBACK]\n\nRevised Answer: "
+option_farmat: "[OPTION]. [ANSWER]"

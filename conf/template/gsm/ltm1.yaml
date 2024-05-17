@@ -1,0 +1,4 @@
+template_name: gsm_ltm
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Could you help me break down this math problem into smaller, more manageable parts and solve it?\n\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

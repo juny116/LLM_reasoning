@@ -1,0 +1,4 @@
+template_name: gsm_alan_turing
+system: "You are ChatGPT, a large language model trained by OpenAI."
+instruction: "Can you solve the following math problem? Think like Alan Turing.\n\n"
+format: "Question: [QUESTION]\nAnswer: [ANSWER]"

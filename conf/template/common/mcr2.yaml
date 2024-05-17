@@ -1,0 +1,11 @@
+template_name: mcr1
+system: "You are ChatGPT, a large language model trained by OpenAI."
+option_map:
+  A: "A"
+  B: "B"
+  C: "C"
+  D: "D"
+instruction: "The following solutions are answers from other models. Based on diverse solutions that are provided, what is the correct answer?\n\n"
+format: "Question: [QUESTION]\n[OPTIONS]\n\n[SOLUTIONS]\n\nFinal answer:[ANSWER]"
+solution_format: "Solution [K]:\n\n[SOLUTION]\n\n"
+option_farmat: "[OPTION]. [ANSWER]"

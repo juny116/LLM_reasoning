@@ -1,3 +1,14 @@
+data/*
+!data/gsm.py
+!data/common.py
+!data/strategy.py
+!data/fermi.py
+conf/model/*
+!conf/model/chatGPT.yaml
+results/*
+outputs/*
+scripts/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

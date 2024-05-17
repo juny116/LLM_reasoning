@@ -1,0 +1,7 @@
+name: chatGPT
+model_name_or_path: gpt-3.5-turbo-1106
+openai_api_base: https://api.openai.com/v1
+temperature: 0
+max_tokens: 1024
+model_type: chat
+openai_organization: org-Ou5ooW31rhHNVcwVDNdVdrX3
